@@ -1,0 +1,2536 @@
+{
+    
+    "Meta": {
+        
+        "Year": "2018",
+        "Host": "Russia",
+        "Tournament_No.": "21"
+        
+    },
+    
+    
+    "Matches": [
+        
+        {
+            "ID": "061418",
+            "Index": 1,
+            "Tzone": 3,
+            "Teams": ["Russia", "Saudi_Arabia"],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "Luzhniki Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061418",
+                  "Team": "Russia",
+                  "When": 12,
+                  "Player": "Iury Gazinsky"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061418",
+                  "Team": "Russia",
+                  "When": 43,
+                  "Player": "Denis Cheryshev"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061418",
+                  "Team": "Russia",
+                  "When": 71,
+                  "Player": "Artem Dzyuba"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061418",
+                  "Team": "Russia",
+                  "When": 91,
+                  "Player": "Denis Cheryshev"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061418",
+                  "Team": "Russia",
+                  "When": 94,
+                  "Player": "Aleksandr Golovin"
+                }
+              ],
+            "Winner": "Russia",
+            "Man_of_the_Match": "Denis Cheryshev"
+        },
+        
+        {
+            "ID": "061517",
+            "Index": 2,
+            "Tzone": 5,
+            "Teams": ["Egypt", "Uruguay"],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "Central Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061517",
+                  "Team": "Uruguay",
+                  "When": 12,
+                  "Player": "Jose Gimenez"
+                }
+              ],
+            "Winner": "Uruguay",
+            "Man_of_the_Match": "Mohamed ElShenawy"
+        },
+        
+        {
+            "ID": "061518",
+            "Index": 3,
+            "Tzone": 3,
+            "Teams": ["Morocco", "Iran"],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "Krestovsky Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "061518",
+                  "Team": "Iran",
+                  "When": 95,
+                  "Player": "Aziz Bouhaddouz"
+                }
+              ],
+            "Winner": "Iran",
+            "Man_of_the_Match": "Amine Harit"
+        },
+      
+        {
+            "ID": "061521",
+            "Index": 4,
+            "Tzone": 3,
+            "Teams": ["Portugal", "Spain"],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "Fisht Olympic Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061521",
+                  "Team": "Portugal",
+                  "When": 4,
+                  "Player": "Cristiano Ronaldo"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061521",
+                  "Team": "Spain",
+                  "When": 24,
+                  "Player": "Diego Costa"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061521",
+                  "Team": "Portugal",
+                  "When": 44,
+                  "Player": "Cristiano Ronaldo"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061521",
+                  "Team": "Spain",
+                  "When": 55,
+                  "Player": "Diego Costa"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061521",
+                  "Team": "Spain",
+                  "When": 58,
+                  "Player": "Nacho"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061521",
+                  "Team": "Portugal",
+                  "When": 88,
+                  "Player": "Cristiano Ronaldo"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Cristiano Ronaldo"
+        },
+        
+        {
+            "ID": "061613",
+            "Index": 5,
+            "Tzone": 3,
+            "Teams": ["France", "Australia"],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "Kazan Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061613",
+                  "Team": "France",
+                  "When": 58,
+                  "Player": "Antoine Griezmann"
+                },
+			
+                {
+                  "Type": "N",
+                  "MID": "061613",
+                  "Team": "Australia",
+                  "When": 62,
+                  "Player": "Mile Jedinak"
+                },
+
+                {
+                  "Type": "O",
+                  "MID": "061613",
+                  "Team": "France",
+                  "When": 81,
+                  "Player": "Aziz Behich"
+                }
+              ],
+            "Winner": "France",
+            "Man_of_the_Match": "Antoine Griezmann"
+        },
+        
+        {
+            "ID": "061619",
+            "Index": 6,
+            "Tzone": 3,
+            "Teams": ["Peru", "Denmark"],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "Mordovia Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061619",
+                  "Team": "Denmark",
+                  "When": 59,
+                  "Player": "Yussuf Yurary Poulsen"
+                }
+              ],
+            "Winner": "Denmark",
+            "Man_of_the_Match": "Yussuf Yurary Poulsen"
+        },
+        
+        {
+            "ID": "061616",
+            "Index": 7,
+            "Tzone": 3,
+            "Teams": ["Argentina", "Iceland"],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "Otkritie Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061616",
+                  "Team": "Argentina",
+                  "When": 19,
+                  "Player": "Sergio Aguero"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061616",
+                  "Team": "Iceland",
+                  "When": 23,
+                  "Player": "Alfred Finnbogason"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Hannes Halldorsson"
+        },
+        
+        {
+            "ID": "061621",
+            "Index": 8,
+            "Tzone": 2,
+            "Teams": ["Croatia", "Nigeria"],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "Kaliningrad Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "061621",
+                  "Team": "Croatia",
+                  "When": 32,
+                  "Player": "Oghenekaro Etebo"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061621",
+                  "Team": "Croatia",
+                  "When": 71,
+                  "Player": "Luka Modric"
+                }
+              ],
+            "Winner": "Croatia",
+            "Man_of_the_Match": "Luka Modric"
+        },
+        
+        {
+            "ID": "061716",
+            "Index": 9,
+            "Tzone": 4,
+            "Teams": ["Costa_Rica", "Serbia"],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "Cosmos Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061716",
+                  "Team": "Serbia",
+                  "When": 56,
+                  "Player": "Aleksandar Kolarov"
+                }
+              ],
+            "Winner": "Serbia",
+            "Man_of_the_Match": "Aleksandar Kolarov"
+        },
+        
+        {
+            "ID": "061721",
+            "Index": 10,
+            "Tzone": 3,
+            "Teams": ["Brazil", "Switzerland"],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "Rostov Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061721",
+                  "Team": "Brazil",
+                  "When": 20,
+                  "Player": "Philippe Coutinho"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061721",
+                  "Team": "Switzerland",
+                  "When": 50,
+                  "Player": "Steven Zuber"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Philippe Coutinho"
+        },
+        
+        {
+            "ID": "061718",
+            "Index": 11,
+            "Tzone": 3,
+            "Teams": ["Germany", "Mexico"],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "Luzhniki Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061718",
+                  "Team": "Mexico",
+                  "When": 35,
+                  "Player": "Hirving Lozano"
+                }
+              ],
+            "Winner": "Mexico",
+            "Man_of_the_Match": "Hirving Lozano"
+        },
+        
+        {
+            "ID": "061815",
+            "Index": 12,
+            "Tzone": 3,
+            "Teams": ["Sweden", "South_Korea"],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "Nizhny Novgorod Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061815",
+                  "Team": "Sweden",
+                  "When": 65,
+                  "Player": "Andreas Granqvist"
+                }
+              ],
+            "Winner": "Sweden",
+            "Man_of_the_Match": "Andreas Granqvist"
+        },
+        
+        {
+            "ID": "061818",
+            "Index": 13,
+            "Tzone": 3,
+            "Teams": ["Belgium", "Panama"],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "Fisht Olympic Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061818",
+                  "Team": "Belgium",
+                  "When": 47,
+                  "Player": "Dries Mertens"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061818",
+                  "Team": "Belgium",
+                  "When": 69,
+                  "Player": "Romelu Lukaku"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061818",
+                  "Team": "Belgium",
+                  "When": 75,
+                  "Player": "Romelu Lukaku"
+                }
+              ],
+            "Winner": "Belgium",
+            "Man_of_the_Match": "Romelu Lukaku"
+        },
+        
+        {
+            "ID": "061821",
+            "Index": 14,
+            "Tzone": 3,
+            "Teams": ["Tunisia", "England"],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "Volgograd Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061821",
+                  "Team": "England",
+                  "When": 11,
+                  "Player": "Harry Kane"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061821",
+                  "Team": "Tunisia",
+                  "When": 35,
+                  "Player": "Ferjani Sassi"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061821",
+                  "Team": "England",
+                  "When": 91,
+                  "Player": "Harry Kane"
+                }
+              ],
+            "Winner": "England",
+            "Man_of_the_Match": "Harry Kane"
+        },
+        
+        {
+            "ID": "061915",
+            "Index": 15,
+            "Tzone": 3,
+            "Teams": ["Colombia", "Japan"],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "Mordovia Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "061915",
+                  "Team": "Japan",
+                  "When": 6,
+                  "Player": "Shinji Kagawa"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061915",
+                  "Team": "Colombia",
+                  "When": 39,
+                  "Player": "Juan Quintero"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061915",
+                  "Team": "Japan",
+                  "When": 73,
+                  "Player": "Yuya Osako"
+                }
+              ],
+            "Winner": "Japan",
+            "Man_of_the_Match": "Yuya Osako"
+        },
+        
+        {
+            "ID": "061918",
+            "Index": 16,
+            "Tzone": 3,
+            "Teams": ["Poland", "Senegal"],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "Otkritie Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "061918",
+                  "Team": "Senegal",
+                  "When": 37,
+                  "Player": "Thiago Cionek"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061918",
+                  "Team": "Senegal",
+                  "When": 60,
+                  "Player": "Mbaye Niang"
+                },
+
+                {
+                  "Type": "N",
+                  "MID": "061918",
+                  "Team": "Poland",
+                  "When": 86,
+                  "Player": "Grzegorz Krychowiak"
+                }
+              ],
+            "Winner": "Senegal",
+            "Man_of_the_Match": "Mbaye Niang"
+        },
+        
+        {
+            "ID": "061921",
+            "Index": 17,
+            "Tzone": 3,
+            "Teams": ["Russia", "Egypt"],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "Krestovsky Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "061921",
+                  "Team": "Russia",
+                  "When": 47,
+                  "Player": "Ahmed Fathi"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061921",
+                  "Team": "Russia",
+                  "When": 59,
+                  "Player": "Denis Cheryshev"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061921",
+                  "Team": "Russia",
+                  "When": 62,
+                  "Player": "Artem Dzyuba"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "061921",
+                  "Team": "Egypt",
+                  "When": 73,
+                  "Player": "Mohamed Salah"
+                }
+              ],
+            "Winner": "Russia",
+            "Man_of_the_Match": "Denis Cheryshev"
+        },
+        
+        {
+            "ID": "062018",
+            "Index": 18,
+            "Tzone": 3,
+            "Teams": ["Uruguay", "Saudi_Arabia"],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "Rostov Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062018",
+                  "Team": "Uruguay",
+                  "When": 23,
+                  "Player": "Luis Suarez"
+                }
+              ],
+            "Winner": "Uruguay",
+            "Man_of_the_Match": "Luis Suarez"
+        },
+        
+        {
+            "ID": "062015",
+            "Index": 19,
+            "Tzone": 3,
+            "Teams": ["Portugal", "Morocco"],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "Luzhniki Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062015",
+                  "Team": "Portugal",
+                  "When": 4,
+                  "Player": "Cristiano Ronaldo"
+                }
+              ],
+            "Winner": "Portugal",
+            "Man_of_the_Match": "Cristiano Ronaldo"
+        },
+        
+        {
+            "ID": "062021",
+            "Index": 20,
+            "Tzone": 3,
+            "Teams": ["Iran", "Spain"],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "Kazan Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062021",
+                  "Team": "Spain",
+                  "When": 54,
+                  "Player": "Diego Costa"
+                }
+              ],
+            "Winner": "Spain",
+            "Man_of_the_Match": "Diego Costa"
+        },
+        
+        {
+            "ID": "062120",
+            "Index": 21,
+            "Tzone": 5,
+            "Teams": ["France", "Peru"],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "Central Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062120",
+                  "Team": "France",
+                  "When": 34,
+                  "Player": "Kylian Mbappe"
+                }
+              ],
+            "Winner": "France",
+            "Man_of_the_Match": "Kylian Mbappe"
+        },
+        
+        {
+            "ID": "062116",
+            "Index": 22,
+            "Tzone": 4,
+            "Teams": ["Denmark", "Australia"],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "Cosmos Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062116",
+                  "Team": "Denmark",
+                  "When": 7,
+                  "Player": "Christian Eriksen"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062116",
+                  "Team": "Australia",
+                  "When": 38,
+                  "Player": "Mile Jedinak"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Christian Eriksen"
+        },
+        
+        {
+            "ID": "062121",
+            "Index": 23,
+            "Tzone": 3,
+            "Teams": ["Argentina", "Croatia"],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "Nizhny Novgorod Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062121",
+                  "Team": "Croatia",
+                  "When": 53,
+                  "Player": "Ante Rebic"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062121",
+                  "Team": "Croatia",
+                  "When": 80,
+                  "Player": "Luka Modric"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062121",
+                  "Team": "Croatia",
+                  "When": 91,
+                  "Player": "Ivan Rakitic"
+                }
+              ],
+            "Winner": "Croatia",
+            "Man_of_the_Match": "Luka Modric"
+        },
+        
+        {
+            "ID": "062218",
+            "Index": 24,
+            "Tzone": 3,
+            "Teams": ["Nigeria", "Iceland"],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "Volgograd Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062218",
+                  "Team": "Nigeria",
+                  "When": 49,
+                  "Player": "Ahmed Musa"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062218",
+                  "Team": "Nigeria",
+                  "When": 75,
+                  "Player": "Ahmed Musa"
+                }
+              ],
+            "Winner": "Nigeria",
+            "Man_of_the_Match": "Ahmed Musa"
+        },
+        
+        {
+            "ID": "062215",
+            "Index": 25,
+            "Tzone": 3,
+            "Teams": ["Brazil", "Costa_Rica"],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "Krestovsky Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062215",
+                  "Team": "Brazil",
+                  "When": 91,
+                  "Player": "Philippe Coutinho"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062215",
+                  "Team": "Brazil",
+                  "When": 97,
+                  "Player": "Neymar"
+                }
+              ],
+            "Winner": "Brazil",
+            "Man_of_the_Match": "Philippe Coutinho"
+        },
+        
+        {
+            "ID": "062220",
+            "Index": 26,
+            "Tzone": 2,
+            "Teams": ["Serbia", "Switzerland"],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "Kaliningrad Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062220",
+                  "Team": "Serbia",
+                  "When": 5,
+                  "Player": "Aleksandar Mitrovic"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062220",
+                  "Team": "Switzerland",
+                  "When": 52,
+                  "Player": "Granit Xhaka"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062220",
+                  "Team": "Switzerland",
+                  "When": 90,
+                  "Player": "Xherdan Shaqiri"
+                }
+              ],
+            "Winner": "Switzerland",
+            "Man_of_the_Match": "Xherdan Shaqiri"
+        },
+        
+        {
+            "ID": "062321",
+            "Index": 27,
+            "Tzone": 3,
+            "Teams": ["Germany", "Sweden"],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "Fisht Olympic Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062321",
+                  "Team": "Sweden",
+                  "When": 32,
+                  "Player": "Ola Toivonen"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062321",
+                  "Team": "Germany",
+                  "When": 48,
+                  "Player": "Marco Reus"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062321",
+                  "Team": "Germany",
+                  "When": 95,
+                  "Player": "Toni Kroos"
+                }
+              ],
+            "Winner": "Germany",
+            "Man_of_the_Match": "Marco Reus"
+        },
+        
+        {
+            "ID": "062318",
+            "Index": 28,
+            "Tzone": 3,
+            "Teams": ["South_Korea", "Mexico"],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "Rostov Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062318",
+                  "Team": "Mexico",
+                  "When": 26,
+                  "Player": "Carlos Vela"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062318",
+                  "Team": "Mexico",
+                  "When": 66,
+                  "Player": "Javier Hernandez"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062318",
+                  "Team": "South_Korea",
+                  "When": 93,
+                  "Player": "Son Heungmin"
+                }
+              ],
+            "Winner": "Mexico",
+            "Man_of_the_Match": "Javier Hernandez"
+        },
+        
+        {
+            "ID": "062315",
+            "Index": 29,
+            "Tzone": 3,
+            "Teams": ["Belgium", "Tunisia"],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "Otkritie Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062315",
+                  "Team": "Belgium",
+                  "When": 6,
+                  "Player": "Eden Hazard"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062315",
+                  "Team": "Belgium",
+                  "When": 16,
+                  "Player": "Romelu Lukaku"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062315",
+                  "Team": "Tunisia",
+                  "When": 18,
+                  "Player": "Dylan Bronn"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062315",
+                  "Team": "Belgium",
+                  "When": 48,
+                  "Player": "Romelu Lukaku"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062315",
+                  "Team": "Belgium",
+                  "When": 51,
+                  "Player": "Eden Hazard"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062315",
+                  "Team": "Belgium",
+                  "When": 90,
+                  "Player": "Michy Batshuayi"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062315",
+                  "Team": "Tunisia",
+                  "When": 93,
+                  "Player": "Wahbi Khazri"
+                }
+              ],
+            "Winner": "Belgium",
+            "Man_of_the_Match": "Eden Hazard"
+        },
+        
+        {
+            "ID": "062415",
+            "Index": 30,
+            "Tzone": 3,
+            "Teams": ["England", "Panama"],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "Nizhny Novgorod Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062415",
+                  "Team": "England",
+                  "When": 8,
+                  "Player": "John Stones"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062415",
+                  "Team": "England",
+                  "When": 22,
+                  "Player": "Harry Kane"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062415",
+                  "Team": "England",
+                  "When": 36,
+                  "Player": "Jesse Lingard"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062415",
+                  "Team": "England",
+                  "When": 40,
+                  "Player": "John Stones"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062415",
+                  "Team": "England",
+                  "When": 46,
+                  "Player": "Harry Kane"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062415",
+                  "Team": "England",
+                  "When": 62,
+                  "Player": "Harry Kane"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062415",
+                  "Team": "Panama",
+                  "When": 78,
+                  "Player": "Felipe Baloy"
+                }
+              ],
+            "Winner": "England",
+            "Man_of_the_Match": "Harry Kane"
+        },
+        
+        {
+            "ID": "062421",
+            "Index": 31,
+            "Tzone": 3,
+            "Teams": ["Poland", "Colombia"],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "Kazan Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062421",
+                  "Team": "Colombia",
+                  "When": 40,
+                  "Player": "Yerry Mina"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062421",
+                  "Team": "Colombia",
+                  "When": 70,
+                  "Player": "Radamel Falcao"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062421",
+                  "Team": "Colombia",
+                  "When": 75,
+                  "Player": "Juan Cuadrado"
+                }
+              ],
+            "Winner": "Colombia",
+            "Man_of_the_Match": "James Rodriguez"
+        },
+        
+        {
+            "ID": "062420",
+            "Index": 32,
+            "Tzone": 5,
+            "Teams": ["Japan", "Senegal"],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "Central Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062420",
+                  "Team": "Senegal",
+                  "When": 11,
+                  "Player": "Sadio Mane"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062420",
+                  "Team": "Japan",
+                  "When": 34,
+                  "Player": "Takashi Inui"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062420",
+                  "Team": "Senegal",
+                  "When": 71,
+                  "Player": "Moussa Wague"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062420",
+                  "Team": "Japan",
+                  "When": 78,
+                  "Player": "Keisuke Honda"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Sadio Mane"
+        },
+        
+        {
+            "ID": "062518",
+            "Index": 33,
+            "Tzone": 4,
+            "Teams": ["Uruguay", "Russia"],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "Cosmos Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062518",
+                  "Team": "Uruguay",
+                  "When": 10,
+                  "Player": "Luis Suarez"
+                },
+                
+                {
+                  "Type": "O",
+                  "MID": "062518",
+                  "Team": "Uruguay",
+                  "When": 23,
+                  "Player": "Denis Cheryshev"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062518",
+                  "Team": "Uruguay",
+                  "When": 90,
+                  "Player": "Edinson Cavani"
+                }
+              ],
+            "Winner": "Uruguay",
+            "Man_of_the_Match": "Luis Suarez"
+        },
+        
+        {
+            "ID": "062517",
+            "Index": 34,
+            "Tzone": 3,
+            "Teams": ["Saudi_Arabia", "Egypt"],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "Volgograd Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062517",
+                  "Team": "Egypt",
+                  "When": 22,
+                  "Player": "Mohamed Salah"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062517",
+                  "Team": "Saudi_Arabia",
+                  "When": 51,
+                  "Player": "Salman Al Faraj"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062517",
+                  "Team": "Saudi_Arabia",
+                  "When": 95,
+                  "Player": "Salem Al Dossari"
+                }
+              ],
+            "Winner": "Saudi_Arabia",
+            "Man_of_the_Match": "Mohamed Salah"
+        },
+        
+        {
+            "ID": "062521",
+            "Index": 35,
+            "Tzone": 3,
+            "Teams": ["Iran", "Portugal"],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "Mordovia Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062521",
+                  "Team": "Portugal",
+                  "When": 45,
+                  "Player": "Ricardo Quaresma"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062521",
+                  "Team": "Iran",
+                  "When": 93,
+                  "Player": "Karim Ansarifard"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Ricardo Quaresma"
+        },
+        
+        {
+            "ID": "062520",
+            "Index": 36,
+            "Tzone": 2,
+            "Teams": ["Spain", "Morocco"],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "Kaliningrad Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062520",
+                  "Team": "Morocco",
+                  "When": 14,
+                  "Player": "Khalid Boutaib"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062520",
+                  "Team": "Spain",
+                  "When": 19,
+                  "Player": "Isco"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062520",
+                  "Team": "Morocco",
+                  "When": 81,
+                  "Player": "Youssef En Nesyri"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062520",
+                  "Team": "Spain",
+                  "When": 91,
+                  "Player": "Iago Aspas"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Isco"
+        },
+        
+        {
+            "ID": "062617",
+            "Index": 37,
+            "Tzone": 3,
+            "Teams": ["Denmark", "France"],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "Luzhniki Stadium",
+            "Finished": true,
+            "Goals": [],
+            "Winner": "Draw",
+            "Man_of_the_Match": "N'Golo Kante"
+        },
+        
+        {
+            "ID": "062617_2",
+            "Index": 38,
+            "Tzone": 3,
+            "Teams": ["Australia", "Peru"],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "Fisht Olympic Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062617_2",
+                  "Team": "Peru",
+                  "When": 18,
+                  "Player": "Andre Carrillo"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062617_2",
+                  "Team": "Peru",
+                  "When": 50,
+                  "Player": "Paolo Guerrero"
+                }
+              ],
+            "Winner": "Peru",
+            "Man_of_the_Match": "Andre Carrillo"
+        },
+        
+        {
+            "ID": "062621",
+            "Index": 39,
+            "Tzone": 3,
+            "Teams": ["Nigeria", "Argentina"],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "Krestovsky Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062621",
+                  "Team": "Argentina",
+                  "When": 14,
+                  "Player": "Lionel Messi"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062621",
+                  "Team": "Nigeria",
+                  "When": 51,
+                  "Player": "Victor Moses"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062621",
+                  "Team": "Argentina",
+                  "When": 86,
+                  "Player": "Marcos Rojo"
+                }
+              ],
+            "Winner": "Argentina",
+            "Man_of_the_Match": "Lionel Messi"
+        },
+        
+        {
+            "ID": "062621_2",
+            "Index": 40,
+            "Tzone": 3,
+            "Teams": ["Iceland", "Croatia"],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "Rostov Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062621_2",
+                  "Team": "Croatia",
+                  "When": 53,
+                  "Player": "Milan Badelj"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062621_2",
+                  "Team": "Iceland",
+                  "When": 76,
+                  "Player": "Gylfi Sigurdsson"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062621_2",
+                  "Team": "Croatia",
+                  "When": 90,
+                  "Player": "Ivan Perisic"
+                }
+              ],
+            "Winner": "Croatia",
+            "Man_of_the_Match": "Milan Badelj"
+        },
+        
+        {
+            "ID": "062721",
+            "Index": 41,
+            "Tzone": 3,
+            "Teams": ["Serbia", "Brazil"],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "Otkritie Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062721",
+                  "Team": "Brazil",
+                  "When": 36,
+                  "Player": "Paulinho"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062721",
+                  "Team": "Brazil",
+                  "When": 68,
+                  "Player": "Thiago Silva"
+                }
+              ],
+            "Winner": "Brazil",
+            "Man_of_the_Match": "Paulinho"
+        },
+        
+        {
+            "ID": "062721_2",
+            "Index": 42,
+            "Tzone": 3,
+            "Teams": ["Switzerland", "Costa_Rica"],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "Nizhny Novgorod Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062721_2",
+                  "Team": "Switzerland",
+                  "When": 31,
+                  "Player": "Blerim Dzemaili"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062721_2",
+                  "Team": "Costa_Rica",
+                  "When": 56,
+                  "Player": "Kendall Waston"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062721_2",
+                  "Team": "Switzerland",
+                  "When": 88,
+                  "Player": "Josip Drmic"
+                },
+                
+                {
+                  "Type": "O",
+                  "MID": "062721_2",
+                  "Team": "Costa_Rica",
+                  "When": 93,
+                  "Player": "Yann Sommer"
+                }
+              ],
+            "Winner": "Draw",
+            "Man_of_the_Match": "Blerim Dzemaili"
+        },
+        
+        {
+            "ID": "062717",
+            "Index": 43,
+            "Tzone": 3,
+            "Teams": ["South_Korea", "Germany"],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "Kazan Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062717",
+                  "Team": "South_Korea",
+                  "When": 93,
+                  "Player": "Kim Younggwon"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062717",
+                  "Team": "South_Korea",
+                  "When": 96,
+                  "Player": "Son Heungmin"
+                }
+              ],
+            "Winner": "South_Korea",
+            "Man_of_the_Match": "Jo Hyunwoo"
+        },
+        
+        {
+            "ID": "062719",
+            "Index": 44,
+            "Tzone": 5,
+            "Teams": ["Mexico", "Sweden"],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "Central Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062719",
+                  "Team": "Sweden",
+                  "When": 50,
+                  "Player": "Ludwig Augustinsson"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062719",
+                  "Team": "Sweden",
+                  "When": 62,
+                  "Player": "Andreas Granqvist"
+                },
+                
+                {
+                  "Type": "O",
+                  "MID": "062719",
+                  "Team": "Sweden",
+                  "When": 74,
+                  "Player": "Edson Alvarez"
+                }
+              ],
+            "Winner": "Sweden",
+            "Man_of_the_Match": "Ludwig Augustinsson"
+        },
+        
+        {
+            "ID": "062820",
+            "Index": 45,
+            "Tzone": 2,
+            "Teams": ["England", "Belgium"],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "Kaliningrad Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062820",
+                  "Team": "Belgium",
+                  "When": 51,
+                  "Player": "Adnan Januzaj"
+                }
+              ],
+            "Winner": "Belgium",
+            "Man_of_the_Match": "Adnan Januzaj"
+        },
+        
+        {
+            "ID": "062821",
+            "Index": 46,
+            "Tzone": 3,
+            "Teams": ["Panama", "Tunisia"],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "Mordovia Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "062821",
+                  "Team": "Panama",
+                  "When": 33,
+                  "Player": "Yassine Meriah"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062821",
+                  "Team": "Tunisia",
+                  "When": 51,
+                  "Player": "Ben Youssef"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "062821",
+                  "Team": "Tunisia",
+                  "When": 66,
+                  "Player": "Wahbi Khazri"
+                }
+              ],
+            "Winner": "Tunisia",
+            "Man_of_the_Match": "Ben Youssef"
+        },
+        
+        {
+            "ID": "062817",
+            "Index": 47,
+            "Tzone": 3,
+            "Teams": ["Japan", "Poland"],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "Volgograd Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062817",
+                  "Team": "Poland",
+                  "When": 59,
+                  "Player": "Jan Bednarek"
+                }
+              ],
+            "Winner": "Poland",
+            "Man_of_the_Match": "Jan Bednarek"
+        },
+        
+        {
+            "ID": "062818",
+            "Index": 48,
+            "Tzone": 4,
+            "Teams": ["Senegal", "Colombia"],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "Cosmos Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "062818",
+                  "Team": "Colombia",
+                  "When": 74,
+                  "Player": "Yerry Mina"
+                }
+              ],
+            "Winner": "Colombia",
+            "Man_of_the_Match": "Yerry Mina"
+        },
+        
+        {
+            "ID": "063021",
+            "Index": 49,
+            "Tzone": 3,
+            "Teams": ["Uruguay", "Portugal"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Fisht Olympic Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "063021",
+                  "Team": "Uruguay",
+                  "When": 7,
+                  "Player": "Edinson Cavani"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063021",
+                  "Team": "Portugal",
+                  "When": 55,
+                  "Player": "Pepe"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063021",
+                  "Team": "Uruguay",
+                  "When": 62,
+                  "Player": "Edinson Cavani"
+                }
+              ],
+            "Winner": "Uruguay",
+            "Man_of_the_Match": "Edinson Cavani"
+        },
+        
+        {
+            "ID": "063017",
+            "Index": 50,
+            "Tzone": 3,
+            "Teams": ["France", "Argentina"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Kazan Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "063017",
+                  "Team": "France",
+                  "When": 13,
+                  "Player": "Antoine Griezmann"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063017",
+                  "Team": "Argentina",
+                  "When": 41,
+                  "Player": "Angel Di Maria"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063017",
+                  "Team": "Argentina",
+                  "When": 48,
+                  "Player": "Gabriel Mercado"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063017",
+                  "Team": "France",
+                  "When": 57,
+                  "Player": "Benjamin Pavard"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063017",
+                  "Team": "France",
+                  "When": 64,
+                  "Player": "Kylian Mbappe"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063017",
+                  "Team": "France",
+                  "When": 68,
+                  "Player": "Kylian Mbappe"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "063017",
+                  "Team": "Argentina",
+                  "When": 93,
+                  "Player": "Sergio Aguero"
+                }
+              ],
+            "Winner": "France",
+            "Man_of_the_Match": "Kylian Mbappe"
+        },
+        
+        {
+            "ID": "070117",
+            "Index": 51,
+            "Tzone": 3,
+            "Teams": ["Spain", "Russia"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Luzhniki Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "070117",
+                  "Team": "Spain",
+                  "When": 12,
+                  "Player": "Sergei Ignashevich"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070117",
+                  "Team": "Russia",
+                  "When": 41,
+                  "Player": "Artem Dzyuba"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070117",
+                  "Team": "Spain",
+                  "When": 150,
+                  "Player": "Andres Iniesta"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070117",
+                  "Team": "Russia",
+                  "When": 150,
+                  "Player": "Fedor Smolov"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070117",
+                  "Team": "Spain",
+                  "When": 150,
+                  "Player": "Gerard Pique"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070117",
+                  "Team": "Russia",
+                  "When": 150,
+                  "Player": "Sergei Ignashevich"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070117",
+                  "Team": "Russia",
+                  "When": 150,
+                  "Player": "Aleksandr Golovin"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070117",
+                  "Team": "Spain",
+                  "When": 150,
+                  "Player": "Sergio Ramos"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070117",
+                  "Team": "Russia",
+                  "When": 150,
+                  "Player": "Denis Cheryshev"
+                }
+              ],
+            "Winner": "Russia",
+            "Man_of_the_Match": "Igor Akinfeev"
+        },
+        
+        {
+            "ID": "070121",
+            "Index": 52,
+            "Tzone": 3,
+            "Teams": ["Croatia", "Denmark"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Nizhny Novgorod Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070121",
+                  "Team": "Denmark",
+                  "When": 0,
+                  "Player": "Mathias Jorgensen"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070121",
+                  "Team": "Croatia",
+                  "When": 0,
+                  "Player": "Mario Mandzukic"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070121",
+                  "Team": "Denmark",
+                  "When": 150,
+                  "Player": "Simon Kjaer"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070121",
+                  "Team": "Croatia",
+                  "When": 150,
+                  "Player": "Andrej Kramaric"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070121",
+                  "Team": "Denmark",
+                  "When": 150,
+                  "Player": "Michael Krohn-Dehli"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070121",
+                  "Team": "Croatia",
+                  "When": 150,
+                  "Player": "Luka Modric"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070121",
+                  "Team": "Croatia",
+                  "When": 150,
+                  "Player": "Ivan Rakitic"
+                }
+              ],
+            "Winner": "Croatia",
+            "Man_of_the_Match": "Kasper Schmeichel"
+        },
+        
+        {
+            "ID": "070218",
+            "Index": 53,
+            "Tzone": 4,
+            "Teams": ["Brazil", "Mexico"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Cosmos Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070218",
+                  "Team": "Brazil",
+                  "When": 51,
+                  "Player": "Neymar"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070218",
+                  "Team": "Brazil",
+                  "When": 88,
+                  "Player": "Roberto Firmino"
+                }
+              ],
+            "Winner": "Brazil",
+            "Man_of_the_Match": "Neymar"
+        },
+        
+        {
+            "ID": "070221",
+            "Index": 54,
+            "Tzone": 3,
+            "Teams": ["Belgium", "Japan"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Rostov Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070221",
+                  "Team": "Japan",
+                  "When": 48,
+                  "Player": "Genki Haraguchi"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070221",
+                  "Team": "Japan",
+                  "When": 52,
+                  "Player": "Takashi Inui"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070221",
+                  "Team": "Belgium",
+                  "When": 69,
+                  "Player": "Jan Vertonghen"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070221",
+                  "Team": "Belgium",
+                  "When": 74,
+                  "Player": "Marouane Fellaini"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070221",
+                  "Team": "Belgium",
+                  "When": 94,
+                  "Player": "Nacer Chadli"
+                }
+              ],
+            "Winner": "Belgium",
+            "Man_of_the_Match": "Eden Hazard"
+        },
+        
+        {
+            "ID": "070317",
+            "Index": 55,
+            "Tzone": 3,
+            "Teams": ["Sweden", "Switzerland"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Krestovsky Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070317",
+                  "Team": "Sweden",
+                  "When": 66,
+                  "Player": "Emil Forsberg"
+                }
+              ],
+            "Winner": "Sweden",
+            "Man_of_the_Match": "Emil Forsberg"
+        },
+        
+        {
+            "ID": "070321",
+            "Index": 56,
+            "Tzone": 3,
+            "Teams": ["Colombia", "England"],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "Otkritie Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070321",
+                  "Team": "England",
+                  "When": 57,
+                  "Player": "Harry Kane"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070321",
+                  "Team": "Colombia",
+                  "When": 93,
+                  "Player": "Yerry Mina"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070321",
+                  "Team": "Colombia",
+                  "When": 150,
+                  "Player": "Radamel Falcao"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070321",
+                  "Team": "England",
+                  "When": 150,
+                  "Player": "Harry Kane"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070321",
+                  "Team": "Colombia",
+                  "When": 150,
+                  "Player": "Juan Cuadrado"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070321",
+                  "Team": "England",
+                  "When": 150,
+                  "Player": "Marcus Rashford"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070321",
+                  "Team": "Colombia",
+                  "When": 150,
+                  "Player": "Luis Muriel"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070321",
+                  "Team": "England",
+                  "When": 150,
+                  "Player": "Kieran Trippier"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070321",
+                  "Team": "England",
+                  "When": 150,
+                  "Player": "Eric Dier"
+                }
+              ],
+            "Winner": "England",
+            "Man_of_the_Match": "Harry Kane"
+        },
+        
+        {
+            "ID": "070617",
+            "Index": 57,
+            "Tzone": 3,
+            "Teams": ["Uruguay", "France"],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "Nizhny Novgorod Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070617",
+                  "Team": "France",
+                  "When": 40,
+                  "Player": "Raphael Varane"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070617",
+                  "Team": "France",
+                  "When": 61,
+                  "Player": "Antoine Griezmann"
+                }
+              ],
+            "Winner": "France",
+            "Man_of_the_Match": "Antoine Griezmann"
+        },
+        
+        {
+            "ID": "070621",
+            "Index": 58,
+            "Tzone": 3,
+            "Teams": ["Brazil", "Belgium"],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "Kazan Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "070621",
+                  "Team": "Belgium",
+                  "When": 13,
+                  "Player": "Fernandinho"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070621",
+                  "Team": "Belgium",
+                  "When": 31,
+                  "Player": "Kevin De Bruyne"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070621",
+                  "Team": "Brazil",
+                  "When": 76,
+                  "Player": "Renato Augusto"
+                }
+              ],
+            "Winner": "Belgium",
+            "Man_of_the_Match": "Kevin De Bruyne"
+        },
+        
+        {
+            "ID": "070721",
+            "Index": 59,
+            "Tzone": 3,
+            "Teams": ["Russia", "Croatia"],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "Fisht Olympic Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070721",
+                  "Team": "Russia",
+                  "When": 31,
+                  "Player": "Denis Cheryshev"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070721",
+                  "Team": "Croatia",
+                  "When": 39,
+                  "Player": "Andrej Kramaric"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070721",
+                  "Team": "Croatia",
+                  "When": 101,
+                  "Player": "Domagoj Vida"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070721",
+                  "Team": "Russia",
+                  "When": 115,
+                  "Player": "Mario Fernandes"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070721",
+                  "Team": "Croatia",
+                  "When": 150,
+                  "Player": "Marcelo Brozovic"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070721",
+                  "Team": "Russia",
+                  "When": 150,
+                  "Player": "Alan Dzagoev"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070721",
+                  "Team": "Croatia",
+                  "When": 150,
+                  "Player": "Luka Modric"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070721",
+                  "Team": "Russia",
+                  "When": 150,
+                  "Player": "Sergei Ignashevich"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070721",
+                  "Team": "Croatia",
+                  "When": 150,
+                  "Player": "Domagoj Vida"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070721",
+                  "Team": "Russia",
+                  "When": 150,
+                  "Player": "Daler Kuzyayev"
+                },
+                
+                {
+                  "Type": "P",
+                  "MID": "070721",
+                  "Team": "Croatia",
+                  "When": 150,
+                  "Player": "Ivan Rakitic"
+                }
+              ],
+            "Winner": "Croatia",
+            "Man_of_the_Match": "Luka Modric"
+        },
+        
+        {
+            "ID": "070718",
+            "Index": 60,
+            "Tzone": 4,
+            "Teams": ["Sweden", "England"],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "Cosmos Arena",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "070718",
+                  "Team": "England",
+                  "When": 30,
+                  "Player": "Harry Maguire"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "070718",
+                  "Team": "England",
+                  "When": 59,
+                  "Player": "Dele Alli"
+                }
+              ],
+            "Winner": "England",
+            "Man_of_the_Match": "Jordan Pickford"
+        },
+        
+        {
+            "ID": "071021",
+            "Index": 61,
+            "Tzone": 3,
+            "Teams": ["France", "Belgium"],
+            "Type": "Semi-final",
+            "Group": "None",
+            "Stadium": "Krestovsky Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "071021",
+                  "Team": "France",
+                  "When": 51,
+                  "Player": "Samuel Umtiti"
+                }
+              ],
+            "Winner": "France",
+            "Man_of_the_Match": "Samuel Umtiti"
+        },
+        
+        {
+            "ID": "071121",
+            "Index": 62,
+            "Tzone": 3,
+            "Teams": ["Croatia", "England"],
+            "Type": "Semi-final",
+            "Group": "None",
+            "Stadium": "Luzhniki Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "071121",
+                  "Team": "England",
+                  "When": 5,
+                  "Player": "Kieran Trippier"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071121",
+                  "Team": "Croatia",
+                  "When": 68,
+                  "Player": "Ivan Perisic"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071121",
+                  "Team": "Croatia",
+                  "When": 109,
+                  "Player": "Mario Mandzukic"
+                }
+              ],
+            "Winner": "Croatia",
+            "Man_of_the_Match": "Ivan Perisic"
+        },
+        
+        {
+            "ID": "071417",
+            "Index": 63,
+            "Tzone": 3,
+            "Teams": ["Belgium", "England"],
+            "Type": "3rd Place Playoff",
+            "Group": "None",
+            "Stadium": "Krestovsky Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "071417",
+                  "Team": "Belgium",
+                  "When": 4,
+                  "Player": "Thomas Meunier"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071417",
+                  "Team": "Belgium",
+                  "When": 82,
+                  "Player": "Eden Hazard"
+                }
+              ],
+            "Winner": "Belgium",
+            "Man_of_the_Match": "Eden Hazard"
+        },
+        
+        {
+            "ID": "071518",
+            "Index": 64,
+            "Tzone": 3,
+            "Teams": ["France", "Croatia"],
+            "Type": "Final",
+            "Group": "None",
+            "Stadium": "Luzhniki Stadium",
+            "Finished": true,
+            "Goals": [
+                {
+                  "Type": "O",
+                  "MID": "071518",
+                  "Team": "France",
+                  "When": 18,
+                  "Player": "Mario Mandzukic"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071518",
+                  "Team": "Croatia",
+                  "When": 28,
+                  "Player": "Ivan Perisic"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071518",
+                  "Team": "France",
+                  "When": 38,
+                  "Player": "Antoine Griezmann"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071518",
+                  "Team": "France",
+                  "When": 59,
+                  "Player": "Paul Pogba"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071518",
+                  "Team": "France",
+                  "When": 65,
+                  "Player": "Kylian Mbappe"
+                },
+                
+                {
+                  "Type": "N",
+                  "MID": "071518",
+                  "Team": "Croatia",
+                  "When": 69,
+                  "Player": "Mario Mandzukic"
+                }
+              ],
+            "Winner": "France",
+            "Man_of_the_Match": "Antoine Griezmann"
+        }
+        
+    ],
+    
+    
+    "Groups": [
+        
+        {
+          "ID": "A",
+          "Teams": ["Russia", "Saudi_Arabia", "Egypt", "Uruguay"],
+          "Matches": ["061418", "061517", "061921", "062018", "062518", "062517"]
+        },
+        
+        {
+          "ID": "B",
+          "Teams": ["Iran", "Portugal", "Spain", "Morocco"],
+          "Matches": ["061518", "061521", "062015", "062021", "062521", "062520"]
+        },
+        
+        {
+          "ID": "C",
+          "Teams": ["France", "Australia", "Peru", "Denmark"],
+          "Matches": ["061613", "061619", "062116", "062120", "062617", "062617_2"]
+        },
+        
+        {
+          "ID": "D",
+          "Teams": ["Argentina", "Iceland", "Croatia", "Nigeria"],
+          "Matches": ["061616", "061621", "062121", "062218", "062621", "062621_2"]
+        },
+        
+        {
+          "ID": "E",
+          "Teams": ["Brazil", "Switzerland", "Costa_Rica", "Serbia"],
+          "Matches": ["061716", "061721", "062215", "062220", "062721", "062721_2"]
+        },
+        
+        {
+          "ID": "F",
+          "Teams": ["Germany", "Mexico", "Sweden", "South_Korea"],
+          "Matches": ["061718", "061815", "062318", "062321", "062717", "062719"]
+        },
+        
+        {
+          "ID": "G",
+          "Teams": ["Belgium", "Panama", "Tunisia", "England"],
+          "Matches": ["061818", "061821", "062315", "062415", "062820", "062821"]
+        },
+        
+        {
+          "ID": "H",
+          "Teams": ["Poland", "Senegal", "Colombia", "Japan"],
+          "Matches": ["061915", "061918", "062420", "062421", "062817", "062818"]
+        }
+        
+    ],
+    
+    
+    "Awards": {
+      
+      "Golden Ball": "Luka Modric",
+      "Golden Boot": "Harry Kane",
+      "Golden Glove": "Thibaut Courtois",
+      "Best Young Player": "Kylian Mbappe",
+      "FIFA Fair Play Trophy": "Spain"
+      
+    }
+    
+}

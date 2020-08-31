@@ -1,0 +1,93 @@
+
+========== Command Instruction Manual ==========
+
+
+---------- General Notes ----------
+
+* Commands in this program(World Cup Explorer) are one-line string inputs that are parsed by an internal function to either return formatted data pieces that the user requests or perform basic actions such as exiting.
+
+* When you are ready to browse some data, there are two types of commands that can be issued.
+
+-Commands of the first type consist of only one English word, and they will return data related to the tournament itself such as listing all 32 participating teams. Let's call these global commands.
+
+-Commands of the second type will specifically return data related to a particular team, group, or match. These commands always begin with a defined keyword such as "Team", and then the user will have to fill in other details such as a team name so the program know what to look for. Some of those commands have a verbose mode which will return even more details about the user's interest. To enable verbose mode, simply place the word "verbose" at the END of the command string. Since these commands consist of at least two English words(or group letters), let's call them joint commands.
+
+* For joint commands, different parts of the command string have to be separated by ONLY one empty space so they can be parsed correctly.
+
+* When you input a team name that has more than one English word, it is important to remember to connect them with an underscore.(e.g. Saudi_Arabia)
+
+* All commands are completely case insensitive including team names.
+
+* All data outputs of this program are formatted in plaintext and directly printed in the terminal window, so ideally you should make the width of the terminal at least 2/3 the screen width, or some information may be displayed in a less legible way(or totally illegible) due to automatic line wrap.
+
+
+---------- Basic Commands ----------
+
+* "Quit" — End the session and exit the program.
+
+* "Help" — Display this document in the terminal window.
+
+* "Tzone" — Change your time zone setting.
+
+-Time zone setting is needed in order to show the time of match in your local time. Simply enter the time zone abbreviation(e.g. UTC) to confirm your setting. It is important to remember that during World Cup, areas such as the United States will observe daylight saving time, and you have to use the correct abbreviation(e.g. EDT instead of EST) in order for the program to correctly register the setting. You can use Wikipedia for time zone abbreviation reference.
+
+
+---------- Global Commands ----------
+
+* "Structure" — List all 32 participating teams that are separated into 8 groups.
+
+* "Bracket" — Draw the tournament bracket for the knockout stage based on the current data.
+
+* "Scorers" — Display a list of all players that have scored at least one goal during the tournament so far. They are ranked from top to bottom based on the number of goals scored.
+
+* "News" — List the results of the most recent three matches.
+
+* "Upcoming" — List the time schedules for the next three upcoming matches.
+
+* "Ranking" — List the 16 teams that have at least advanced to the knockout stage with their earned titles at the end of the tournament.
+
+* "Awards" — List all special awards that are given to individuals or teams at the end of the tournament.
+
+-"Ranking" and "Awards" will not return anything until the World Cup is officially over and your data set is complete.
+
+
+---------- Joint Commands ----------
+
+* Keyword "Team" — Return data related to a team or multiple teams.
+
+** To browse "Team" data, place the teams of your interest directly behind the keyword "Team", and the program will gather those data and display them. You can put as many team names in one command as you like.
+
+** Use the shortcut command "Team All" to have the program display the statistics of all 32 teams one by one.
+
+** If your enable verbose mode, all match results and upcoming match schedules will be shown for each team in addition to their basic statistics. But the "Team All" command does not allow verbose mode because too much duplicate data will be shown.
+
+* Keyword "Group" — Return the current standings of a group or multiple groups.
+
+** To browse "Group" data, place the group ID(letter A-H) directly behind the keyword "Group", and the program will display the standings for the groups of your choice. You can put as many groups in one command as you like.
+
+** Use the shortcut command "Group All" to have the program display the standings for all 8 groups.
+
+** If you enable verbose mode, all match results and upcoming match schedules in the group will be shown in addition to standings.
+
+* Keyword "Match" — Return the details of a single match or match results of specific teams.
+
+** If you place team names directly behind the keyowrd "Match", the program will simply return all match results and upcoming match schedules of these particular teams witout extra details.
+
+** Use the shortcut command "Match All" to have the program list either the result or schedule of all 64 matches in the tournament. For finished matches, the most recent match will be shown at the top; for upcoming matches, the nearest one will be shown at the top.
+
+** If you enable verbose mode for the "Match" commands above, for each finished match, following the match result, the program will also list all of the goals scored by the team specified in the command(or by both teams in the case of "Match All").
+
+** There is one special "Match" command structure for the user to look for one(or at most two) particular match between the two teams of his/her choice. This type of command begins with the keyword "Match", then it is followed by the word "VS", and then you should place two team names behind "VS". The result is that the program will return full details of the match(es) fought between the two teams in the command.
+
+
+---------- Joint Command Examples(actual commands do not have double quotes)----------
+
+* "Team Russia Japan Belgium" — Display basic statistics of Russia, Japan, and Belgium.
+
+* "Group All Verbose" — Display all groups' standings and their match results and schedules.
+
+* "Match Spain" — Display the results and schedules of all matches with Spain being a participant.
+
+* "Match Spain Brazil" — Same as above for Spain, then repeat the same for Brazil.
+
+* "Match VS Croatia Iceland" — Display all available information of the match between Croatia and Iceland(finished or not finished).

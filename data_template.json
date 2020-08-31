@@ -1,0 +1,984 @@
+{
+    
+    "Meta": {
+        
+        "Year": "",
+        "Host": "",
+        "Tournament_No.": ""
+        
+    },
+    
+    
+    "Matches": [
+        
+        {
+            "ID": "",
+            "Index": 1,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [
+                {
+                  "Type": "N",
+                  "MID": "",
+                  "Team": "",
+                  "When": 0,
+                  "Player": ""
+                }
+              ],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 2,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 3,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+      
+        {
+            "ID": "",
+            "Index": 4,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 5,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 6,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 7,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 8,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 9,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 10,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 11,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 12,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 13,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 14,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 15,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 16,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 17,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 18,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 19,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 20,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 21,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 22,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 23,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 24,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 25,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 26,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 27,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 28,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 29,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 30,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 31,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 32,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 33,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 34,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "A",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 35,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 36,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "B",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 37,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 38,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "C",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 39,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 40,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "D",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 41,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 42,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "E",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 43,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 44,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "F",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 45,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 46,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "G",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 47,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 48,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Group",
+            "Group": "H",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 49,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 50,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 51,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 52,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 53,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 54,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 55,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 56,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 16",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 57,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 58,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 59,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 60,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Round of 8",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 61,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Semi-final",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 62,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Semi-final",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 63,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "3rd Place Playoff",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        },
+        
+        {
+            "ID": "",
+            "Index": 64,
+            "Tzone": 0,
+            "Teams": ["", ""],
+            "Type": "Final",
+            "Group": "None",
+            "Stadium": "",
+            "Finished": false,
+            "Goals": [],
+            "Winner": "",
+            "Man_of_the_Match": ""
+        }
+        
+    ],
+    
+    
+    "Groups": [
+        
+        {
+          "ID": "A",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        },
+        
+        {
+          "ID": "B",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        },
+        
+        {
+          "ID": "C",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        },
+        
+        {
+          "ID": "D",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        },
+        
+        {
+          "ID": "E",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        },
+        
+        {
+          "ID": "F",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        },
+        
+        {
+          "ID": "G",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        },
+        
+        {
+          "ID": "H",
+          "Teams": ["", "", "", ""],
+          "Matches": ["", "", "", "", "", ""]
+        }
+        
+    ],
+    
+    
+    "Awards": {
+      
+      "Golden Ball": "",
+      "Golden Boot": "",
+      "Golden Glove": "",
+      "Best Young Player": "",
+      "FIFA Fair Play Trophy": ""
+      
+    }
+    
+}
