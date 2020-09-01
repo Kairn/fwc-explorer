@@ -14,12 +14,12 @@ from command_functions import *
 from special_classes import *
 
 # load the help file.
-with open("command_help.txt", "r") as hp:
+with open("command_help.txt", "rb") as hp:
 	FULL_TEXT = hp.readlines()
 	help_text = [line for line in FULL_TEXT]
 
 # load the data file.
-with open("fifa_data.json", "r") as jp:
+with open("fifa_data.json", "rb") as jp:
 	raw_data = json.load(jp)
 	FULL_DATA = AttrDict(raw_data)
 	
